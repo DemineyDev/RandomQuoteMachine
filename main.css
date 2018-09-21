@@ -1,0 +1,71 @@
+body {
+    background-color: orange;
+}
+
+.wrapper {
+    max-width: 30%;
+    padding-bottom: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    
+
+}
+
+.fas {
+    font-size: 20px;
+    margin-left: 15px;
+    color: orange;
+    display: inline-block;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Raleway';
+    color: orange;
+    
+    
+}
+
+#quote {
+    font-size: 25px;
+
+}
+
+#author {
+    text-align: right;
+    margin-right: 10px;
+}
+ 
+
+
+#tweet-quote {
+    font-size: 50px;
+    display: inline-block;
+    vertical-align: top;
+    color: orange;
+    margin-left: 15px;
+}
+
+#facebook-button {
+    font-size: 50px;
+    color: orange;
+    margin-left: 15px;
+}
+.btn {
+    float: right;
+    margin-right: 15px;
+    background-color: orange;
+    color: white;
+
+    
+   
+
+}
